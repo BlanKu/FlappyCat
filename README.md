@@ -15,4 +15,4 @@ Dane Techniczne
 
 Gra została zrobiona na silniku Unity 2019.4.31f1.
 Skrypty oraz kod gry został napisany w dodatku Bolt Visual Scripting.
-UI gry zostało zrobione wraz z dodatkiem TextMeshPro
+UI gry zostało zrobione wraz z dodatkiem TextMeshPro.
