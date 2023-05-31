@@ -10,3 +10,9 @@ https://drive.google.com/drive/folders/1rRDDnH2FstWlw-8Y7Ljuz3UgDTcz7ctW?usp=sha
 
 P.S 
 Najserdeczniejsze podziękowania kieruję do Natalii, bez której nie dałbym rady skończyć tej gry <3
+
+Dane Techniczne
+
+Gra została zrobiona na silniku Unity 2019.4.31f1.
+Skrypty oraz kod gry został napisany w dodatku Bolt Visual Scripting.
+UI gry zostało zrobione wraz z dodatkiem TextMeshPro
