@@ -8,9 +8,6 @@ Mam nadzieje, że spodoba się wam tak jak mi się spodobała. ;D
 Grę można pobrać z tego linku:
 https://drive.google.com/drive/folders/1rRDDnH2FstWlw-8Y7Ljuz3UgDTcz7ctW?usp=share_link
 
-P.S 
-Najserdeczniejsze podziękowania kieruję do Natalii, bez której nie dałbym rady skończyć tej gry <3
-
 Dane Techniczne
 
 Gra została zrobiona na silniku Unity 2019.4.31f1.
